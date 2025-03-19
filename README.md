@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">You guys also can also call me Dan.I'm currently studying in Universiti Teknologi Malaysia as a student in Bachelor of Computer Science (Data Engineering) with honours.I'm currently focusing on learning all the apps and tools that can be using towards being a data scientist and data analyst.</h3>
+<h3 align="center">You guys can just call me Danial.I'm currently studying in Universiti Teknologi Malaysia as a student in Bachelor of Computer Science (Data Engineering) with honours.I'm currently focusing on learning all the apps and tools that can be using towards being a data scientist and data analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniallllllll&label=Profile%20views&color=0e75b6&style=flat" alt="daniallllllll" /> </p>
 
